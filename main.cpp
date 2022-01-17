@@ -1,7 +1,7 @@
 /*
     Name: Sohaib Ahmed
     Date: May 10th, 2021
-    Purpose: Summative 1 - Food Machine School Lobby
+    Purpose: School Food Machine School
 */
 
 #include <iostream>
